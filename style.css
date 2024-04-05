@@ -1,0 +1,32 @@
+.row {
+    justify-content: space-between;
+    text-align: start;
+    display: flex;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  
+  .row h3 {
+    margin-top: 25px;
+  }
+  
+  .row a {
+    color: #222222;
+    text-decoration: none;
+  }
+  #class{
+    width: 96%;
+    margin: 0 auto;
+  }
+
+#altImagesContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1230px;
+    margin: 0 auto;/
+}
+#altImagesContainer img {
+    margin: 0 auto;
+    display: block;
+    }
